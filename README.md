@@ -1,0 +1,2 @@
+# rockstar
+Python, java, termux
